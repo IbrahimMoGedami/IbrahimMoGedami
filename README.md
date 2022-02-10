@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Mohammed Gedami</h1>
-<h3 align="center">iOS Developer & Beginner ML Eng Graduated from FCIS-MU CS-Section 2020</h3>
+<h3 align="center">iOS Developer & Beginner ML Eng </h3>
+<h3 align="center">Graduated from FCIS-MU CS-Section 2020</h3>
 
 <p align="left"> <a href="https://twitter.com/ibrahimogedami" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimogedami?logo=twitter&style=for-the-badge" alt="ibrahimogedami" /></a> </p>
 
