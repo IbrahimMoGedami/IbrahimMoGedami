@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IbrahimMoGedami?tab=repositories](https://github.com/IbrahimMoGedami?tab=repositories)
 
-- 💬 Ask me about **iOS app Development**
+- 💬 Ask me about **OOP, Data structure, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Design Architecture, Design Patterns, Testing**
 
 - 📫 How to reach me **hemagedamy@gmail.com / +201021577475**
 
