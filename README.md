@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **OOP, Data structure, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Design Architecture, Design Patterns, Testing**
 
-- 📫 How to reach me **hemagedamy@gmail.com / +201021577475**
+- 📫 How to reach me **hemagedamy@gmail.com **
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ibrahim-mohammed-gedami-7b25a2144/overlay/1635480980545/single-media-viewer/](https://www.linkedin.com/in/ibrahim-mohammed-gedami-7b25a2144/overlay/1635480980545/single-media-viewer/)
 
