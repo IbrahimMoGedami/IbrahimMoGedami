@@ -3,8 +3,6 @@
 <h3 align="center">Graduated from FCIS-MU CS-Section 2020 <a href="https://www.facebook.com/fcismans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FCIS-MU" height="30" width="40" /></a></h3>
 
 
-<p align="left"> <a href="https://twitter.com/ibrahimogedami" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimogedami?logo=twitter&style=for-the-badge" alt="ibrahimogedami" /></a> </p>
-
 - 🌱 I’m currently learning **SwiftUI,Machine learning , German language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IbrahimMoGedami?tab=repositories](https://github.com/IbrahimMoGedami?tab=repositories)
