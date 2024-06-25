@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ibrahim Mohammed Gedami
 
-## iOS Developer | FCIS-MU CS-Section 2020
+## iOS Developer
 
 - 🌱 I’m currently learning SwiftUI, Machine learning, German language
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/IbrahimMoGedami?tab=repositories)
@@ -54,21 +54,26 @@
 
 ## Projects
 
-### Captain One & Captain One El Captain
+### [Captain One](https://apps.apple.com/bf/app/captain-one/id1636704276)
+
+### [Captain One El Captain](https://apps.apple.com/bf/app/captain-one-driver/id6443598502)
 
 - Apps for trip planning and vehicle types, negotiation, and loyalty rewards
 
-### Flory
 
-- App for buying floors, with order and subscription options
-- Features chat using Socket.io, social media signup, and payments with TapPayment
+### [Flory](https://apps.apple.com/bf/app/flory/id1566247288)
+
+- App for buying floors, with order and monthly subscription options
+- Features providing chat between seller and customer using socket.io, social media signup like Facebook, Google, Apple, payment process using TapPayment gateway and pay with wallet.
 
 ### ReelsHub
 
 - App for sharing videos with friends
 - Features dynamic link creation and video creation using Banuba SDK
 
-### أسرار العارفين المستشار & أسرار العارفين
+### [أسرار العارفين المستشار](https://apps.apple.com/bf/app/%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D8%B1%D9%81%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1/id1605566822)
+
+### [أسرار العارفين](https://apps.apple.com/bf/app/%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D8%B1%D9%81%D9%8A%D9%86/id1605566829)
 
 - Apps for medical consultations
 - Refactoring with MVC design pattern, chat between doctor and client using Socket.io
@@ -83,19 +88,6 @@
 
 ## Skills
 
-- Experience in Apple’s design principles, UIKit or SwiftUI, AutoLayout
-- Experience in iOS back-end services, RESTful API, Alamofire, SwiftyJSON, Codable
-- Experience in Core Animation, Core Audio, AVFoundation, offline storage (Caching, Core Data, User Defaults)
-- Solid understanding of software development principles, problem-solving, Data Structures, Algorithms, debugging
-- Reactive programming with Combine, version control systems, unit-testing
-- Experience in Firebase (Realtime Database, Firestore), Firebase Storage
-- Experience in MapKit, Google Maps, Core Location, cloud message APIs, Push Notifications (APNs, FCM)
-- Architecture Design Pattern (MVC, MVP, VIPER, MVVM), iOS Concurrency, MultiThreading (GCD, Operation Queue)
-- Object-oriented programming, protocol-oriented programming
-- Experience in Chat, Audio/Video Calling, Live Video Streaming using AgoraKit, Socket.io
-
-## Skills
-
 - **iOS Development**: Experience in Apple’s design principles, UIKit or SwiftUI, and AutoLayout for building responsive interfaces.
 - **iOS Backend**: Proficient in iOS back-end services, RESTful API (Alamofire, SwiftyJSON, Codable) for data integration.
 - **Offline Storage**: Expertise in offline storage (Caching, Core Data, User Defaults) for multimedia applications.
@@ -104,14 +96,14 @@
 - **Reactive Programming**: Proficient in reactive programming with Combine.
 - **Version Control Systems**: Proficient in version control systems version control systems (Git, SVN)
 - **Testing**: Experience with unit-testing framworks to ensure code reliability.
-- **Firebase and Cloud Services**: Experience in Firebase (Realtime Database, Firestore), Firebase Storage for scalable backend solutions.
+- **Firebase and Cloud Services**: Experience in Firebase (Realtime Database, Firestore), Firebase Storage for scalable backend solutions, Firebase CrashLytices, Firebase Remote Configuration.
 - **Location and Messaging**: Proficient in MapKit, Google Maps, Core Location, cloud message APIs, Push Notifications (APNs, FCM) for location-based services and user engagement.
 - **iOS Concurrency**: Familiar with iOS Concurrency, MultiThreading (GCD, Operation Queue), Moder Concurrency such as Task, Task Group, Async , Async let ... etc for building robust and efficient applications.
 - **App Architecture**: Familiar with Architecture Design Pattern (MVC, MVP, VIPER, MVVM) for building robust and efficient applications.
 - **Programming Paradigms**: Strong understanding of Object-oriented programming and protocol-oriented programming.
 - **Communication**: Experienced in Chat, Audio/Video Calling, Live Video Streaming using AgoraKit, Socket.io for real-time communication features.
 - **Agile Methodolgies**: Experienced in working in Agile development environmens and scrum methodolgies.
-
+- **iOS ThirdParty**: Expericene in SwiftLint, also bulding app with fastLane, SPM Creation.
 ---
 
 ## Education
