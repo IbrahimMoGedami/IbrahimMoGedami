@@ -1,38 +1,169 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Mohammed Gedami</h1>
-<h3 align="center">iOS Developer</h3>
-<h3 align="center">Graduated from FCIS-MU CS-Section 2020 <a href="https://www.facebook.com/fcismans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FCIS-MU" height="30" width="40" /></a></h3>
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ibrahim Mohammed Gedami - iOS Developer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
 
-- 🌱 I’m currently learning **SwiftUI,Machine learning , German language**
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
 
-- 👨‍💻 All of my projects are available at [https://github.com/IbrahimMoGedami?tab=repositories](https://github.com/IbrahimMoGedami?tab=repositories)
+        h1,
+        h3 {
+            text-align: center;
+            margin-bottom: 5px;
+        }
 
-- 💬 Ask me about **OOP, Data structure, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Design Architecture, Design Patterns, Testing**
+        p {
+            margin-bottom: 10px;
+        }
 
-- 📫 How to reach me **hemagedamy@gmail.com **
+        .social-icons {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin-top: 10px;
+        }
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ibrahim-mohammed-gedami-7b25a2144/overlay/1635480980545/single-media-viewer/](https://www.linkedin.com/in/ibrahim-mohammed-gedami-7b25a2144/overlay/1635480980545/single-media-viewer/)
+        .social-icons img {
+            height: 30px;
+            width: auto;
+        }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ibrahimogedami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahimogedami" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ibrahim-mohammed-gedami-7b25a2144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-mohammed-gedami-7b25a2144" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ibrahimogedami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ibrahimogedami" height="30" width="40" /></a>
-<a href="https://kaggle.com/ebrahimmogedamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ebrahimmogedamy" height="30" width="40" /></a>
-<a href="https://fb.com/ibrahimogedami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibrahimogedami" height="30" width="40" /></a>
-<a href="https://instagram.com/ibrahim_mo_gedami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahim_mo_gedami" height="30" width="40" /></a>
-<a href="https://medium.com/@ibrahim_gedami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ibrahim_gedami" height="30" width="40" /></a>
-<a href="https://www.youtube.com/Ibrahim Mo Gedami
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uc3hrt7anusvlbt5k3bv4q2g" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ebrahimogedamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ebrahimogedamy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ibrahimogedami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibrahimogedami" height="30" width="40" /></a>
-</p>
+        .languages-tools {
+            margin-top: 20px;
+        }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+        .languages-tools img {
+            margin-right: 10px;
+            height: 40px;
+            width: auto;
+        }
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimmogedami&show_icons=true&locale=en&layout=compact" alt="ibrahimmogedami" /></p>
+        .stats {
+            margin-top: 20px;
+            display: flex;
+            justify-content: space-between;
+        }
+    </style>
+</head>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimmogedami&show_icons=true&locale=en" alt="ibrahimmogedami" /></p>
+<body>
+    <div class="container">
+        <h1>Hi 👋, I'm Ibrahim Mohammed Gedami</h1>
+        <h3>iOS Developer</h3>
+        <h3>Graduated from FCIS-MU CS-Section 2020 <a href="https://www.facebook.com/fcismans" target="_blank"><img
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+                    alt="FCIS-MU" height="30" width="40" /></a></h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimmogedami&" alt="ibrahimmogedami" /></p>
+        <p>🌱 I’m currently learning SwiftUI, Machine learning, German language</p>
+
+        <p>👨‍💻 All of my projects are available at <a href="https://github.com/IbrahimMoGedami?tab=repositories"
+                target="_blank">https://github.com/IbrahimMoGedami?tab=repositories</a></p>
+
+        <p>💬 Ask me about OOP, Data structure, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Design Architecture,
+            Design Patterns, Testing</p>
+
+        <p>📫 How to reach me <a href="mailto:hemagedamy@gmail.com">hemagedamy@gmail.com</a></p>
+
+        <h3>Connect with me:</h3>
+        <div class="social-icons">
+            <a href="https://twitter.com/ibrahimogedami" target="_blank"><img
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+                    alt="ibrahimogedami" /></a>
+            <a href="https://linkedin.com/in/ibrahim-mohammed-gedami-7b25a2144" target="_blank"><img
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                    alt="ibrahim-mohammed-gedami-7b25a2144" /></a>
+            <a href="https://stackoverflow.com/users/ibrahimogedami" target="_blank"><img
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+                    alt="ibrahimogedami" /></a>
+            <a href="https://kaggle.com/ebrahimmogedamy" target="_blank"><img
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+                    alt="ebrahimmogedamy" /></a>
+            <a href="https://fb.com/ibrahimogedami" target="_blank"><img
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+                    alt="ibrahimogedami" /></a>
+            <a href="https://instagram.com/ibrahim_mo_gedami" target="_blank"><img
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+                    alt="ibrahim_mo_gedami" /></a>
+            <a href="https://medium.com/@ibrahim_gedami" target="_blank"><img
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+                    alt="@ibrahim_gedami" /></a>
+            <a href="https://www.youtube.com/Ibrahim Mo Gedami" target="_blank"><img
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+                    alt="channel/uc3hrt7anusvlbt5k3bv4q2g" /></a>
+            <a href="https://www.hackerrank.com/ebrahimogedamy" target="_blank"><img
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+                    alt="ebrahimogedamy" /></a>
+            <a href="https://www.leetcode.com/ibrahimogedami" target="_blank"><img
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+                    alt="ibrahimogedami" /></a>
+        </div>
+
+        <h3>Languages and Tools:</h3>
+        <div class="languages-tools">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+                alt="csharp" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                alt="css3" />
+            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" />
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
+            <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                alt="html5" />
+            <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+                alt="illustrator" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                alt="javascript" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+                alt="linux" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+                alt="mongodb" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+                alt="nodejs" />
+            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+                alt="pandas" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+                alt="photoshop" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                alt="python" />
+            <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" />
+            <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg"
+                alt="realm" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+                alt="scikit_learn" />
+            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
+                alt="swift" />
+            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" />
+            <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" />
+            <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" />
+        </div>
+
+        <div class="stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimmogedami&show_icons=true&locale=en&layout=compact"
+                alt="Top Languages" />
+            <img src="https://github-readme-stats.vercel.app/api?username=ibrahimmogedami&show_icons=true&locale=en"
+                alt="GitHub Stats" />
+        </div>
+    </div>
+</body>
+
+</html>
