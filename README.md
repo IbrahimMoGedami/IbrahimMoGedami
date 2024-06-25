@@ -47,7 +47,7 @@
 - Integrated mobile payment platforms such as ApplePay, Tap Payment
 - Redesigned and maintained applications to comply with Apple guidelines
 
-### iOS Developer | Almusaned Co | Ridyh, Saudi Arabia
+### iOS Developer | Almusaned Co | Riyadh, Saudi Arabia
 #### 01/2021 – 12/2021
 - Contributed to the maintenance and redesign of Heleemh Sitter & Haleemh apps, enhancing UI/UX and integrating AgoraKit for audio and video calls.
 ---
