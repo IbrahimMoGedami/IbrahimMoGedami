@@ -1,169 +1,130 @@
-<!DOCTYPE html>
-<html lang="en">
+# Hi 👋, I'm Ibrahim Mohammed Gedami
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ibrahim Mohammed Gedami - iOS Developer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f0f0f0;
-            margin: 0;
-            padding: 0;
-        }
+## iOS Developer | FCIS-MU CS-Section 2020
 
-        .container {
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
+- 🌱 I’m currently learning SwiftUI, Machine learning, German language
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/IbrahimMoGedami?tab=repositories)
+- 💬 Ask me about OOP, Data structure, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Design Architecture, Design Patterns, Testing
+- 📫 How to reach me: [hemagedamy@gmail.com](mailto:hemagedamy@gmail.com)
 
-        h1,
-        h3 {
-            text-align: center;
-            margin-bottom: 5px;
-        }
+### Connect with me:
 
-        p {
-            margin-bottom: 10px;
-        }
+[<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://linkedin.com/in/ibrahim-mohammed-gedami-7b25a2144)
+[<img align="left" alt="Stack Overflow" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />](https://stackoverflow.com/users/ibrahimogedami)
+[<img align="left" alt="Kaggle" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" />](https://kaggle.com/ebrahimmogedamy)
+[<img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />](https://instagram.com/ibrahim_mo_gedami)
+[<img align="left" alt="Medium" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />](https://medium.com/@ibrahim_gedami)
+[<img align="left" alt="HackerRank" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />](https://www.hackerrank.com/ebrahimogedamy)
+[<img align="left" alt="LeetCode" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />](https://www.leetcode.com/ibrahimogedami)
 
-        .social-icons {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 10px;
-            margin-top: 10px;
-        }
+<br />
+<br />
 
-        .social-icons img {
-            height: 30px;
-            width: auto;
-        }
+---
 
-        .languages-tools {
-            margin-top: 20px;
-        }
+## Profile
 
-        .languages-tools img {
-            margin-right: 10px;
-            height: 40px;
-            width: auto;
-        }
+- Seasoned iOS Developer with expertise in Swift and good knowledge of Objective-C, boasting a proven track record in the computer software industry.
+- Strong engineering professional with a Bachelor of Computer and Information Science (BS) focused on Computer Science from Mansoura University.
 
-        .stats {
-            margin-top: 20px;
-            display: flex;
-            justify-content: space-between;
-        }
-    </style>
-</head>
+---
 
-<body>
-    <div class="container">
-        <h1>Hi 👋, I'm Ibrahim Mohammed Gedami</h1>
-        <h3>iOS Developer</h3>
-        <h3>Graduated from FCIS-MU CS-Section 2020 <a href="https://www.facebook.com/fcismans" target="_blank"><img
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-                    alt="FCIS-MU" height="30" width="40" /></a></h3>
+## Professional Experience
 
-        <p>🌱 I’m currently learning SwiftUI, Machine learning, German language</p>
+### iOS Developer | Ahmed Seddiqi & Sons
+#### 03/2023 – present | Dubai, UAE
 
-        <p>👨‍💻 All of my projects are available at <a href="https://github.com/IbrahimMoGedami?tab=repositories"
-                target="_blank">https://github.com/IbrahimMoGedami?tab=repositories</a></p>
+- Work on Seddiqi-Retail App:
+  - Applying techniques such as Protocol-Oriented Programming, Solid-Principles
+  - Writing code in Objective-C and converting to Swift
+  - Working with QR Code Scanner, AnyLine Library for scanning Emirates ID
+  - Working on CoreData, Unit-Testing
 
-        <p>💬 Ask me about OOP, Data structure, Swift, iOS, Cocoapods, Frameworks, RESTful APIs, Design Architecture,
-            Design Patterns, Testing</p>
+### iOS Developer | Alalmiy Alhura
+#### 01/2022 – 01/2023 | Mansoura, Egypt
 
-        <p>📫 How to reach me <a href="mailto:hemagedamy@gmail.com">hemagedamy@gmail.com</a></p>
+- Integrated and built a Generic Network for handling APIs
+- Integrated mobile payment platforms such as ApplePay, Tap Payment
+- Redesigned and maintained applications to comply with Apple guidelines
 
-        <h3>Connect with me:</h3>
-        <div class="social-icons">
-            <a href="https://twitter.com/ibrahimogedami" target="_blank"><img
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-                    alt="ibrahimogedami" /></a>
-            <a href="https://linkedin.com/in/ibrahim-mohammed-gedami-7b25a2144" target="_blank"><img
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                    alt="ibrahim-mohammed-gedami-7b25a2144" /></a>
-            <a href="https://stackoverflow.com/users/ibrahimogedami" target="_blank"><img
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-                    alt="ibrahimogedami" /></a>
-            <a href="https://kaggle.com/ebrahimmogedamy" target="_blank"><img
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-                    alt="ebrahimmogedamy" /></a>
-            <a href="https://fb.com/ibrahimogedami" target="_blank"><img
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-                    alt="ibrahimogedami" /></a>
-            <a href="https://instagram.com/ibrahim_mo_gedami" target="_blank"><img
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                    alt="ibrahim_mo_gedami" /></a>
-            <a href="https://medium.com/@ibrahim_gedami" target="_blank"><img
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-                    alt="@ibrahim_gedami" /></a>
-            <a href="https://www.youtube.com/Ibrahim Mo Gedami" target="_blank"><img
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-                    alt="channel/uc3hrt7anusvlbt5k3bv4q2g" /></a>
-            <a href="https://www.hackerrank.com/ebrahimogedamy" target="_blank"><img
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-                    alt="ebrahimogedamy" /></a>
-            <a href="https://www.leetcode.com/ibrahimogedami" target="_blank"><img
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-                    alt="ibrahimogedami" /></a>
-        </div>
+### iOS Developer | Almusaned Co | Ridyh, Saudi Arabia
+#### 01/2021 – 12/2021
+- Contributed to the maintenance and redesign of Heleemh Sitter & Haleemh apps, enhancing UI/UX and integrating AgoraKit for audio and video calls.
+---
 
-        <h3>Languages and Tools:</h3>
-        <div class="languages-tools">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                alt="csharp" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3" />
-            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" />
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
-            <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5" />
-            <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-                alt="illustrator" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                alt="linux" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                alt="mongodb" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs" />
-            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-                alt="pandas" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-                alt="photoshop" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" />
-            <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" />
-            <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg"
-                alt="realm" />
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-                alt="scikit_learn" />
-            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
-                alt="swift" />
-            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" />
-            <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" />
-            <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" />
-        </div>
+## Projects
 
-        <div class="stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimmogedami&show_icons=true&locale=en&layout=compact"
-                alt="Top Languages" />
-            <img src="https://github-readme-stats.vercel.app/api?username=ibrahimmogedami&show_icons=true&locale=en"
-                alt="GitHub Stats" />
-        </div>
-    </div>
-</body>
+### Captain One & Captain One El Captain
 
-</html>
+- Apps for trip planning and vehicle types, negotiation, and loyalty rewards
+
+### Flory
+
+- App for buying floors, with order and subscription options
+- Features chat using Socket.io, social media signup, and payments with TapPayment
+
+### ReelsHub
+
+- App for sharing videos with friends
+- Features dynamic link creation and video creation using Banuba SDK
+
+### أسرار العارفين المستشار & أسرار العارفين
+
+- Apps for medical consultations
+- Refactoring with MVC design pattern, chat between doctor and client using Socket.io
+- Audio and video calls using AgoraKit and WRTC
+
+### My Meal & My Meal Delivery & My Meal Restaurant
+
+- Apps for ordering meals and reserving tables
+- Features for captains to deliver orders according to app criteria
+
+---
+
+## Skills
+
+- Experience in Apple’s design principles, UIKit or SwiftUI, AutoLayout
+- Experience in iOS back-end services, RESTful API, Alamofire, SwiftyJSON, Codable
+- Experience in Core Animation, Core Audio, AVFoundation, offline storage (Caching, Core Data, User Defaults)
+- Solid understanding of software development principles, problem-solving, Data Structures, Algorithms, debugging
+- Reactive programming with Combine, version control systems, unit-testing
+- Experience in Firebase (Realtime Database, Firestore), Firebase Storage
+- Experience in MapKit, Google Maps, Core Location, cloud message APIs, Push Notifications (APNs, FCM)
+- Architecture Design Pattern (MVC, MVP, VIPER, MVVM), iOS Concurrency, MultiThreading (GCD, Operation Queue)
+- Object-oriented programming, protocol-oriented programming
+- Experience in Chat, Audio/Video Calling, Live Video Streaming using AgoraKit, Socket.io
+
+## Skills
+
+- **iOS Development**: Experience in Apple’s design principles, UIKit or SwiftUI, and AutoLayout for building responsive interfaces.
+- **iOS Backend**: Proficient in iOS back-end services, RESTful API (Alamofire, SwiftyJSON, Codable) for data integration.
+- **Offline Storage**: Expertise in offline storage (Caching, Core Data, User Defaults) for multimedia applications.
+- **iOS Liberaries**: Expertise in Core Animation, Core Audio, AVFoundation, AVKit, Core Graphices.
+- **Software Development**: Solid understanding of software development principles, problem-solving, Data Structures, Algorithms, and debugging.
+- **Reactive Programming**: Proficient in reactive programming with Combine.
+- **Version Control Systems**: Proficient in version control systems version control systems (Git, SVN)
+- **Testing**: Experience with unit-testing framworks to ensure code reliability.
+- **Firebase and Cloud Services**: Experience in Firebase (Realtime Database, Firestore), Firebase Storage for scalable backend solutions.
+- **Location and Messaging**: Proficient in MapKit, Google Maps, Core Location, cloud message APIs, Push Notifications (APNs, FCM) for location-based services and user engagement.
+- **iOS Concurrency**: Familiar with iOS Concurrency, MultiThreading (GCD, Operation Queue), Moder Concurrency such as Task, Task Group, Async , Async let ... etc for building robust and efficient applications.
+- **App Architecture**: Familiar with Architecture Design Pattern (MVC, MVP, VIPER, MVVM) for building robust and efficient applications.
+- **Programming Paradigms**: Strong understanding of Object-oriented programming and protocol-oriented programming.
+- **Communication**: Experienced in Chat, Audio/Video Calling, Live Video Streaming using AgoraKit, Socket.io for real-time communication features.
+- **Agile Methodolgies**: Experienced in working in Agile development environmens and scrum methodolgies.
+
+---
+
+## Education
+
+### Bachelor of Computer Science
+#### Faculty of Computer and Information Science, Mansoura University
+#### 09/2016 – 08/2020 | Al Mansoura, Egypt
+
+- Studies in the Computer Science department
+
+---
+
+## Languages
+
+- English
+- Arabic
